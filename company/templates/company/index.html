@@ -1,0 +1,36 @@
+{% load render_table from django_tables2 %}
+<!doctype html>
+<html>
+    <head>
+        <title>List of Companies</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    </head>
+    <body>
+        {% render_table table %}
+    </body>
+</html>
+
+<!-- {% if companies %}
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Price on {{ date }}</th>
+            <th>high</th>
+            <th>low</th>
+            <th>% less than high</th>
+            <th>% more than low</th>
+        </tr>
+    {% for company in companies %}
+        <tr>
+            <td><a href="/company/{{ company.id }}/">{{ company.name }}</a></td>
+            <td>{{ company.close }}</td>
+            <td>{{ company.max_close }}</td>
+            <td>{{ company.min_close }}</td>
+            <td>{{ company.max_percent }}</td>
+            <td>{{ company.min_percent }}</td>
+        </tr>
+    {% endfor %}
+    </table>
+{% else %}
+    <p>No companies are available.</p>
+{% endif %} -->

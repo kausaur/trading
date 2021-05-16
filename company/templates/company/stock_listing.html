@@ -1,0 +1,9 @@
+{% if stocks_data %}
+    <ul>
+    {% for stock in stocks_data %}
+        <li>{{ stock.record_date }} - {{ stock.close }}</li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No stocks are available.</p>
+{% endif %}
