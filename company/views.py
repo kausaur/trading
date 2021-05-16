@@ -7,19 +7,21 @@ from stock.models import Stock
 from company.dto import Company_DTO
 
 def index(request):
+    sort_attr = request.GET.get('sort', 'name')
     NUM_DAYS = 365
     objList = Company.objects.order_by("name")
     dto_list = []
     latest_date = Stock.objects.order_by("-record_date").first().record_date
     for company in objList:
+        dto = {}
+        dto['name'] = company.name
+        dto['valid'] = False
         stocks = Stock.objects.filter(company__id=company.id).order_by("-record_date").filter(record_date__gte=datetime.now()-timedelta(days=NUM_DAYS)).all()
         if stocks and len(stocks) > 0:
             latest_stock = stocks[0]
-            dto = {}
-            dto['name'] = company.name
             if latest_date == latest_stock.record_date:
                 dto['close'] = latest_stock.close
-                valid = True
+                dto['valid'] = True
             max_close=float('-inf')
             min_close=float('inf')
             for stock in stocks:
@@ -31,9 +33,10 @@ def index(request):
             dto['max_close'] = max_close
             dto['min_percent'] = round((dto['close'] - dto['min_close'])/dto['close'] * 100, 2)
             dto['max_percent'] = round((dto['max_close'] - dto['close'])/dto['close'] * 100, 2)
-            dto_list.append(dto)
+        dto_list.append(dto)
             
     context = {'table': Company_DTO(dto_list), 'date': latest_date}
+    context['table'].order_by = sort_attr
     return render(request, 'company/index.html', context)
 
 def detail(request, company_id):

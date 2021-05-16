@@ -142,5 +142,8 @@ CRONJOBS = [
 ]
 CRONTAB_COMMAND_SUFFIX = '2>&1'
 
+# django-table2 styling
+DJANGO_TABLES2_TEMPLATE = "django_tables2/bootstrap-responsive.html"
+
 # to deploy on heroku
 django_heroku.settings(locals())
