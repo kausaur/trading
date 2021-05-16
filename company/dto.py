@@ -27,7 +27,7 @@ class Company_DTO(tables.Table):
         self.counter = itertools.count()
 
     def render_row_number(self):
-        return next(self.counter)
+        return next(self.counter) + 1
 
     class Meta:
         attrs = {'class': 'table table-striped table-hover'}

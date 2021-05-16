@@ -135,10 +135,14 @@ USE_TZ = False
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+# STATICFILES_DIRS = [
+#     os.path.join(BASE_DIR, 'staticfiles')
+# ]
 
 # T0 trigger CRON JOB or update it, "python manage.py crontab add"
 CRONJOBS = [
-    ('0 0 * * *', 'trading.cron.refresh_data', '>> ' + os.path.join(BASE_DIR.parent, 'logs', 'cron.log'))
+    ('0 0 * * *', 'trading.cron.refresh_data', '>> ' + os.path.join(BASE_DIR, 'logs', 'cron.log'))
 ]
 CRONTAB_COMMAND_SUFFIX = '2>&1'
 
