@@ -79,33 +79,13 @@ WSGI_APPLICATION = 'trading.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
-# DATABASES = {
-#     "default": {
-#         "HOST": "localhost",
-#         "PASSWORD": "xp2#$kal1",
-#         "ENGINE": "django.db.backends.postgresql", 
-#         "USER": "postgres",
-#         "NAME": "trading",
-#         "PORT": "5432"
-#     }
-# }
-# DATABASES = {
-#     "default": {
-#         "HOST": "65.19.141.67",
-#         "PASSWORD": "1~W~XJ=9V3Lj",
-#         "ENGINE": "django.db.backends.postgresql", 
-#         "USER": "kausaur_postgres",
-#         "NAME": "kausaur_trading",
-#         "PORT": "5432"
-#     }
-# }
 DATABASES = {
     "default": {
-        "HOST": "awspostgresdb.cm36ipcnadcq.ap-south-1.rds.amazonaws.com",
+        "HOST": "localhost",
         "PASSWORD": "xp2#$kal1",
         "ENGINE": "django.db.backends.postgresql", 
         "USER": "postgres",
-        "NAME": "tradingDB",
+        "NAME": "trading",
         "PORT": "5432"
     }
 }
