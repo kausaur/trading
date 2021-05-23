@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 import os
-import django_heroku
+# import django_heroku
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -149,4 +149,4 @@ CRONTAB_COMMAND_SUFFIX = '2>&1'
 DJANGO_TABLES2_TEMPLATE = "django_tables2/bootstrap-responsive.html"
 
 # to deploy on heroku
-django_heroku.settings(locals())
+# django_heroku.settings(locals())
