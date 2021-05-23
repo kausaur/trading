@@ -21,7 +21,7 @@ class Command(BaseCommand):
         self.isin_code_map = {}
         self.create_bse_code_map()
         self.addNifty50Companies()
-        self.refresh_data()
+        self.refresh_data(True)
 
     def create_bse_code_map(self):
         # get BSE security code from BSE_List.csv, downloaded from https://www.bseindia.com/corporates/List_Scrips.aspx
@@ -59,16 +59,25 @@ class Command(BaseCommand):
                     # TODO: delete companies which are not a part of NIFTY50 now, maybe by a deleted flag
                 row_num += 1
 
-    def refresh_data(self):
+    def refresh_data(self, discard_all_stocks = False):
         companies = Company.objects.all()
         num_companies = len(companies)
         cur_idx = 0
         while cur_idx < num_companies:
             company = companies[cur_idx]
+            if discard_all_stocks:
+                company.price_updated_at = None
+                num_records = Stock.objects.filter(company__name=company.name).delete()
+                print("Deleted {} records of {}".format(num_records, company.name))
             if company.price_updated_at == None or company.price_updated_at < (NOW - timedelta(days=1)):
                 stock_updated = False
-                print("Processing {} of {} : {}".format(cur_idx+1, num_companies, company.symbol))
+                latest_stock = Stock.objects.filter(company__name=company.name).order_by("-record_date").first()
+                latest_record_date = NOW - timedelta(days=100*365)
+                if latest_stock:
+                    latest_record_date = latest_stock.record_date
+                print("{} : Processing {} of {} : {}".format(datetime.now(), cur_idx+1, num_companies, company.symbol))
                 response = requests.get(QUANDL_FIN_DATA_JSON_PATH.format(company.bse_code))
+                itr = 0
                 if response.status_code == 200:
                     json_data = json.loads(response.text)
                     if 'dataset' in json_data.keys():
@@ -91,18 +100,21 @@ class Command(BaseCommand):
                                 }
                                 if stock['volume'] == 0:
                                     continue
-                                if not Stock.objects.filter(company__name=company.name).filter(record_date=stock['record_date']).exists():
+                                if discard_all_stocks or \
+                                    (not discard_all_stocks and cur_date > latest_record_date):
+                                    # TODO: take into account the oldest_record_date as well
                                     obj = Stock.objects.create(**stock)
                                     obj.save()
-                                    stock_updated = True
-                            except:
-                                print("Exception encountered with data: {} \n for URL {}".format(data, QUANDL_FIN_DATA_JSON_PATH.format(company.bse_code)))
+                                    itr += 1
+                            except Exception as e:
+                                print("Exception encountered : {} \n with data: {} \n for URL {}".format(e, data, QUANDL_FIN_DATA_JSON_PATH.format(company.bse_code)))
                     else:
                         print("Dataset is blank for URL: {}".format(QUANDL_FIN_DATA_JSON_PATH.format(company.bse_code)))
                         continue
                 else:
                     print("Response NOT OK for company: {} with URL: {}, {}".format(company.name, QUANDL_FIN_DATA_JSON_PATH.format(company.bse_code), response.status_code))
-                if stock_updated:
+                if itr > 0:
+                    print("Processed {} records for {} {}".format(itr, cur_idx, company.name))
                     company.price_updated_at = NOW
                     company.save()
             cur_idx += 1
