@@ -33,6 +33,8 @@ def index(request):
                 dto['max_close'] = max_close
                 dto['min_percent'] = round((dto['close'] - dto['min_close'])/dto['close'] * 100, 2)
                 dto['max_percent'] = round((dto['max_close'] - dto['close'])/dto['close'] * 100, 2)
+            else:
+                print("Latest Date should be {}, but is: {} for {}".format(latest_date, latest_stock.record_date, company.name))
         dto_list.append(dto)
             
     context = {'table': Company_DTO(dto_list), 'date': latest_date}
