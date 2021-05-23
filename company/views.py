@@ -22,17 +22,17 @@ def index(request):
             if latest_date == latest_stock.record_date:
                 dto['close'] = latest_stock.close
                 dto['valid'] = True
-            max_close=float('-inf')
-            min_close=float('inf')
-            for stock in stocks:
-                if stock.close > max_close:
-                    max_close = stock.close
-                if stock.close < min_close:
-                    min_close = stock.close
-            dto['min_close'] = min_close
-            dto['max_close'] = max_close
-            dto['min_percent'] = round((dto['close'] - dto['min_close'])/dto['close'] * 100, 2)
-            dto['max_percent'] = round((dto['max_close'] - dto['close'])/dto['close'] * 100, 2)
+                max_close=float('-inf')
+                min_close=float('inf')
+                for stock in stocks:
+                    if stock.close > max_close:
+                        max_close = stock.close
+                    if stock.close < min_close:
+                        min_close = stock.close
+                dto['min_close'] = min_close
+                dto['max_close'] = max_close
+                dto['min_percent'] = round((dto['close'] - dto['min_close'])/dto['close'] * 100, 2)
+                dto['max_percent'] = round((dto['max_close'] - dto['close'])/dto['close'] * 100, 2)
         dto_list.append(dto)
             
     context = {'table': Company_DTO(dto_list), 'date': latest_date}
