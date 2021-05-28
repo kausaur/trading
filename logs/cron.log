@@ -1,0 +1,1023 @@
+CRON trigerred at: 2021-05-24 00:00:02.173183 !
+2021-05-24 00:00:02.711094 : Processing 1 of 100 : ABBOTINDIA
+2021-05-24 00:00:08.473971 : Processing 2 of 100 : ADANIENT
+2021-05-24 00:00:11.971448 : Processing 3 of 100 : ADANIGREEN
+2021-05-24 00:00:13.562084 : Processing 4 of 100 : ADANIPORTS
+2021-05-24 00:00:16.239707 : Processing 5 of 100 : ADANITRANS
+2021-05-24 00:00:18.361225 : Processing 6 of 100 : ALKEM
+2021-05-24 00:00:20.143418 : Processing 7 of 100 : AMBUJACEM
+2021-05-24 00:00:23.716347 : Processing 8 of 100 : APOLLOHOSP
+2021-05-24 00:00:28.281731 : Processing 9 of 100 : ASIANPAINT
+2021-05-24 00:00:31.975491 : Processing 10 of 100 : AUROPHARMA
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-27', 735.0, 751.75, 722.7, 739.15, 737.54, None, 5.393, None, 29.297, 17.25, 29.05, 4.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-24', 751.6, 752.45, 725.95, 734.95, 738.89, None, 3.788, None, 22.964, 20.46, 26.5, -16.65] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-23', 759.9, 760.55, 736.8, 746.2, 744.65, None, 4.897, None, 53.175, 26.06, 23.75, -13.7] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-22', 719.95, 756.75, 718.0, 752.05, 740.08, None, 5.043, None, None, 53.91, 38.75, 32.1] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-21', 772.0, 776.3, 742.8, 748.4, 759.95, None, 4.587, None, 40.157, 23.38, 33.5, -23.6] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-20', 769.0, 776.75, 753.4, 772.25, 771.21, None, 4.789, None, None, 80.02, 23.35, 3.25] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-17', None, None, None, None, None, None, 3.939, None, None, 85.6, 35.55, 0.5] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-16', None, None, None, None, None, 92.017, 3.016, None, 41.316, 44.9, 28.3, 6.55] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-15', None, None, None, None, None, None, 3.219, None, None, 86.64, 21.3, -4.35] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-14', None, None, None, None, None, None, 4.347, None, None, 79.17, 29.25, 6.85] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-13', None, None, None, None, None, None, 4.366, None, 24.063, 22.87, 46.55, 29.65] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-10', None, None, None, None, None, 78.523, 3.501, None, 18.839, 23.99, 34.5, -27.4] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-09', None, None, None, None, None, 49.672, 2.164, None, 9.678, 19.48, 21.95, 8.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-08', None, None, None, None, None, 99.608, 3.904, None, 13.764, 13.82, 45.15, -0.35] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-07', None, None, None, None, None, 83.492, 3.655, None, 15.298, 18.32, 36.9, -6.7] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-06', None, None, None, None, None, 94.522, 3.689, None, 20.423, 21.61, 61.3, 29.4] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-03', None, None, None, None, None, None, 3.479, None, 26.949, 22.63, 37.9, 2.75] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-02', None, None, None, None, None, None, 6.779, None, 59.433, 34.55, 63.0, -59.9] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-01', None, None, None, None, None, 88.015, 3.362, None, 28.144, 31.98, 26.45, 4.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-30', None, None, None, None, None, 91.393, 4.264, None, 14.772, 16.16, 69.35, 39.8] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-29', None, None, None, None, None, None, 4.434, None, 29.538, 24.09, 46.0, 7.0] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-26', None, None, None, None, None, 99.245, 3.603, None, 25.859, 26.06, 20.7, 1.85] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-25', None, None, None, None, None, None, 4.768, None, 18.227, 16.81, 30.15, -15.5] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-24', None, None, None, None, None, None, 8.725, None, 30.377, 13.07, 51.7, 32.1] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-23', None, None, None, None, None, 86.906, 3.571, None, 16.312, 18.77, 28.8, 22.75] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+2021-05-24 00:00:35.280581 : Processing 11 of 100 : DMART
+2021-05-24 00:00:37.242083 : Processing 12 of 100 : AXISBANK
+2021-05-24 00:00:39.552009 : Processing 13 of 100 : BAJAJ-AUTO
+2021-05-24 00:00:41.346140 : Processing 14 of 100 : BAJFINANCE
+2021-05-24 00:00:44.940855 : Processing 15 of 100 : BAJAJFINSV
+2021-05-24 00:00:46.808503 : Processing 16 of 100 : BAJAJHLDNG
+2021-05-24 00:00:50.488103 : Processing 17 of 100 : BANDHANBNK
+2021-05-24 00:00:51.884901 : Processing 18 of 100 : BERGEPAINT
+2021-05-24 00:00:55.343109 : Processing 19 of 100 : BPCL
+2021-05-24 00:00:58.113398 : Processing 20 of 100 : BHARTIARTL
+2021-05-24 00:01:01.180147 : Processing 21 of 100 : BIOCON
+2021-05-24 00:01:04.147503 : Processing 22 of 100 : BOSCHLTD
+2021-05-24 00:01:07.780113 : Processing 23 of 100 : BRITANNIA
+2021-05-24 00:01:11.042171 : Processing 24 of 100 : CADILAHC
+2021-05-24 00:01:14.401404 : Processing 25 of 100 : CIPLA
+2021-05-24 00:01:17.906733 : Processing 26 of 100 : COALINDIA
+2021-05-24 00:01:20.269999 : Processing 27 of 100 : COLPAL
+2021-05-24 00:01:23.344785 : Processing 28 of 100 : DLF
+2021-05-24 00:01:28.908265 : Processing 29 of 100 : DABUR
+2021-05-24 00:01:37.681789 : Processing 30 of 100 : DIVISLAB
+2021-05-24 00:01:40.596301 : Processing 31 of 100 : DRREDDY
+2021-05-24 00:01:44.254217 : Processing 32 of 100 : EICHERMOT
+2021-05-24 00:01:47.889021 : Processing 33 of 100 : GAIL
+2021-05-24 00:01:51.251093 : Processing 34 of 100 : GODREJCP
+2021-05-24 00:01:54.354337 : Processing 35 of 100 : GRASIM
+2021-05-24 00:01:58.045938 : Processing 36 of 100 : HCLTECH
+2021-05-24 00:02:01.881609 : Processing 37 of 100 : HDFCAMC
+2021-05-24 00:02:03.472139 : Processing 38 of 100 : HDFCBANK
+2021-05-24 00:02:08.781607 : Processing 39 of 100 : HDFCLIFE
+2021-05-24 00:02:10.142077 : Processing 40 of 100 : HAVELLS
+2021-05-24 00:02:17.253680 : Processing 41 of 100 : HEROMOTOCO
+2021-05-24 00:02:20.123038 : Processing 42 of 100 : HINDALCO
+2021-05-24 00:02:23.479000 : Processing 43 of 100 : HINDPETRO
+2021-05-24 00:02:31.227995 : Processing 44 of 100 : HINDUNILVR
+2021-05-24 00:02:38.902252 : Processing 45 of 100 : HDFC
+2021-05-24 00:02:42.618429 : Processing 46 of 100 : ICICIBANK
+2021-05-24 00:02:45.832967 : Processing 47 of 100 : ICICIGI
+2021-05-24 00:02:46.720829 : Processing 48 of 100 : ICICIPRULI
+2021-05-24 00:02:47.674668 : Processing 49 of 100 : ITC
+2021-05-24 00:02:51.503758 : Processing 50 of 100 : IOC
+2021-05-24 00:02:54.284455 : Processing 51 of 100 : IGL
+2021-05-24 00:02:56.186504 : Processing 52 of 100 : INDUSTOWER
+2021-05-24 00:02:57.621182 : Processing 53 of 100 : INDUSINDBK
+2021-05-24 00:03:01.557405 : Processing 54 of 100 : NAUKRI
+2021-05-24 00:03:04.261901 : Processing 55 of 100 : INFY
+2021-05-24 00:03:07.427264 : Processing 56 of 100 : INDIGO
+2021-05-24 00:03:09.516973 : Processing 57 of 100 : JSWSTEEL
+2021-05-24 00:03:13.153541 : Processing 58 of 100 : ACC
+2021-05-24 00:03:16.748881 : Processing 59 of 100 : ONGC
+2021-05-24 00:03:20.490260 : Processing 60 of 100 : PETRONET
+2021-05-24 00:03:22.658359 : Processing 61 of 100 : PIDILITIND
+2021-05-24 00:03:25.491529 : Processing 62 of 100 : PEL
+2021-05-24 00:03:26.822882 : Processing 63 of 100 : POWERGRID
+2021-05-24 00:03:30.530009 : Processing 64 of 100 : PGHH
+2021-05-24 00:03:38.614132 : Processing 65 of 100 : PNB
+2021-05-24 00:03:43.468148 : Processing 66 of 100 : RELIANCE
+2021-05-24 00:03:46.945438 : Processing 67 of 100 : SBILIFE
+2021-05-24 00:03:48.360867 : Processing 68 of 100 : SHREECEM
+2021-05-24 00:03:51.628899 : Processing 69 of 100 : SIEMENS
+2021-05-24 00:03:54.622405 : Processing 70 of 100 : SBIN
+2021-05-24 00:03:57.962655 : Processing 71 of 100 : SUNPHARMA
+2021-05-24 00:04:01.258386 : Processing 72 of 100 : TCS
+2021-05-24 00:04:07.185807 : Processing 73 of 100 : TATACONSUM
+2021-05-24 00:04:13.130042 : Processing 74 of 100 : TATAMOTORS
+2021-05-24 00:04:15.964530 : Processing 75 of 100 : TATASTEEL
+2021-05-24 00:04:18.701437 : Processing 76 of 100 : TECHM
+2021-05-24 00:04:21.299449 : Processing 77 of 100 : TITAN
+2021-05-24 00:04:23.917056 : Processing 78 of 100 : TORNTPHARM
+2021-05-24 00:04:26.518779 : Processing 79 of 100 : UPL
+2021-05-24 00:04:32.866487 : Processing 80 of 100 : SBICARD
+Response NOT OK for company: SBI Cards and Payment Services Ltd. with URL: https://www.quandl.com/api/v3/datasets/BSE/BOM543066.json?api_key=RvrJtNVqgmLqprLzHeih, 404
+2021-05-24 00:04:33.976001 : Processing 81 of 100 : ULTRACEMCO
+2021-05-24 00:04:36.757550 : Processing 82 of 100 : UBL
+2021-05-24 00:04:39.726691 : Processing 83 of 100 : MCDOWELL-N
+2021-05-24 00:04:43.067557 : Processing 84 of 100 : VEDL
+2021-05-24 00:04:46.434231 : Processing 85 of 100 : WIPRO
+2021-05-24 00:04:49.955338 : Processing 86 of 100 : JUBLFOOD
+2021-05-24 00:04:51.631562 : Processing 87 of 100 : KOTAKBANK
+2021-05-24 00:04:54.944946 : Processing 88 of 100 : LTI
+2021-05-24 00:04:56.459063 : Processing 89 of 100 : LT
+2021-05-24 00:05:00.150353 : Processing 90 of 100 : LUPIN
+2021-05-24 00:05:02.349425 : Processing 91 of 100 : MRF
+2021-05-24 00:05:06.007860 : Processing 92 of 100 : M&M
+2021-05-24 00:05:09.021083 : Processing 93 of 100 : MARICO
+2021-05-24 00:05:11.572500 : Processing 94 of 100 : MARUTI
+2021-05-24 00:05:14.916319 : Processing 95 of 100 : MOTHERSUMI
+2021-05-24 00:05:17.681142 : Processing 96 of 100 : MUTHOOTFIN
+2021-05-24 00:05:19.196571 : Processing 97 of 100 : NMDC
+2021-05-24 00:05:22.099364 : Processing 98 of 100 : NTPC
+2021-05-24 00:05:25.259366 : Processing 99 of 100 : NESTLEIND
+2021-05-24 00:05:28.309054 : Processing 100 of 100 : YESBANK
+Refresh complete!
+CRON completed at: 2021-05-24 00:05:31.231077 !
+CRON trigerred at: 2021-05-25 00:00:02.112358 !
+2021-05-25 00:00:02.604625 : Processing 1 of 100 : ABBOTINDIA
+Processed 2 records for 0 Abbott India Ltd.
+2021-05-25 00:00:06.788893 : Processing 2 of 100 : ADANIENT
+Processed 2 records for 1 Adani Enterprises Ltd.
+2021-05-25 00:00:11.121999 : Processing 3 of 100 : ADANIGREEN
+Processed 1 records for 2 Adani Green Energy Ltd.
+2021-05-25 00:00:14.046720 : Processing 4 of 100 : ADANIPORTS
+Processed 1 records for 3 Adani Ports and Special Economic Zone Ltd.
+2021-05-25 00:00:16.882281 : Processing 5 of 100 : ADANITRANS
+Processed 1 records for 4 Adani Transmission Ltd.
+2021-05-25 00:00:18.895654 : Processing 6 of 100 : ALKEM
+Processed 1 records for 5 Alkem Laboratories Ltd.
+2021-05-25 00:00:21.083859 : Processing 7 of 100 : AMBUJACEM
+Processed 2 records for 6 Ambuja Cements Ltd.
+2021-05-25 00:00:25.093365 : Processing 8 of 100 : APOLLOHOSP
+Processed 2 records for 7 Apollo Hospitals Enterprise Ltd.
+2021-05-25 00:00:28.873801 : Processing 9 of 100 : ASIANPAINT
+Processed 2 records for 8 Asian Paints Ltd.
+2021-05-25 00:00:31.878478 : Processing 10 of 100 : AUROPHARMA
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-27', 735.0, 751.75, 722.7, 739.15, 737.54, None, 5.393, None, 29.297, 17.25, 29.05, 4.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-24', 751.6, 752.45, 725.95, 734.95, 738.89, None, 3.788, None, 22.964, 20.46, 26.5, -16.65] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-23', 759.9, 760.55, 736.8, 746.2, 744.65, None, 4.897, None, 53.175, 26.06, 23.75, -13.7] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-22', 719.95, 756.75, 718.0, 752.05, 740.08, None, 5.043, None, None, 53.91, 38.75, 32.1] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-21', 772.0, 776.3, 742.8, 748.4, 759.95, None, 4.587, None, 40.157, 23.38, 33.5, -23.6] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-20', 769.0, 776.75, 753.4, 772.25, 771.21, None, 4.789, None, None, 80.02, 23.35, 3.25] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-17', None, None, None, None, None, None, 3.939, None, None, 85.6, 35.55, 0.5] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-16', None, None, None, None, None, 92.017, 3.016, None, 41.316, 44.9, 28.3, 6.55] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-15', None, None, None, None, None, None, 3.219, None, None, 86.64, 21.3, -4.35] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-14', None, None, None, None, None, None, 4.347, None, None, 79.17, 29.25, 6.85] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-13', None, None, None, None, None, None, 4.366, None, 24.063, 22.87, 46.55, 29.65] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-10', None, None, None, None, None, 78.523, 3.501, None, 18.839, 23.99, 34.5, -27.4] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-09', None, None, None, None, None, 49.672, 2.164, None, 9.678, 19.48, 21.95, 8.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-08', None, None, None, None, None, 99.608, 3.904, None, 13.764, 13.82, 45.15, -0.35] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-07', None, None, None, None, None, 83.492, 3.655, None, 15.298, 18.32, 36.9, -6.7] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-06', None, None, None, None, None, 94.522, 3.689, None, 20.423, 21.61, 61.3, 29.4] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-03', None, None, None, None, None, None, 3.479, None, 26.949, 22.63, 37.9, 2.75] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-02', None, None, None, None, None, None, 6.779, None, 59.433, 34.55, 63.0, -59.9] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-01', None, None, None, None, None, 88.015, 3.362, None, 28.144, 31.98, 26.45, 4.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-30', None, None, None, None, None, 91.393, 4.264, None, 14.772, 16.16, 69.35, 39.8] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-29', None, None, None, None, None, None, 4.434, None, 29.538, 24.09, 46.0, 7.0] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-26', None, None, None, None, None, 99.245, 3.603, None, 25.859, 26.06, 20.7, 1.85] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-25', None, None, None, None, None, None, 4.768, None, 18.227, 16.81, 30.15, -15.5] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-24', None, None, None, None, None, None, 8.725, None, 30.377, 13.07, 51.7, 32.1] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-23', None, None, None, None, None, 86.906, 3.571, None, 16.312, 18.77, 28.8, 22.75] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Processed 1 records for 9 Aurobindo Pharma Ltd.
+2021-05-25 00:00:35.601812 : Processing 11 of 100 : DMART
+Processed 1 records for 10 Avenue Supermarts Ltd.
+2021-05-25 00:00:37.672917 : Processing 12 of 100 : AXISBANK
+Processed 1 records for 11 Axis Bank Ltd.
+2021-05-25 00:00:41.140458 : Processing 13 of 100 : BAJAJ-AUTO
+Processed 1 records for 12 Bajaj Auto Ltd.
+2021-05-25 00:00:43.020650 : Processing 14 of 100 : BAJFINANCE
+Processed 2 records for 13 Bajaj Finance Ltd.
+2021-05-25 00:00:46.375831 : Processing 15 of 100 : BAJAJFINSV
+Processed 1 records for 14 Bajaj Finserv Ltd.
+2021-05-25 00:00:49.096537 : Processing 16 of 100 : BAJAJHLDNG
+Processed 2 records for 15 Bajaj Holdings & Investment Ltd.
+2021-05-25 00:00:52.904802 : Processing 17 of 100 : BANDHANBNK
+Processed 1 records for 16 Bandhan Bank Ltd.
+2021-05-25 00:00:54.439261 : Processing 18 of 100 : BERGEPAINT
+Processed 2 records for 17 Berger Paints India Ltd.
+2021-05-25 00:00:58.267866 : Processing 19 of 100 : BPCL
+Processed 2 records for 18 Bharat Petroleum Corporation Ltd.
+2021-05-25 00:01:00.396958 : Processing 20 of 100 : BHARTIARTL
+Processed 1 records for 19 Bharti Airtel Ltd.
+2021-05-25 00:01:03.639409 : Processing 21 of 100 : BIOCON
+Processed 1 records for 20 Biocon Ltd.
+2021-05-25 00:01:06.306237 : Processing 22 of 100 : BOSCHLTD
+Processed 2 records for 21 Bosch Ltd.
+2021-05-25 00:01:09.291806 : Processing 23 of 100 : BRITANNIA
+Processed 2 records for 22 Britannia Industries Ltd.
+2021-05-25 00:01:13.111671 : Processing 24 of 100 : CADILAHC
+Processed 1 records for 23 Cadila Healthcare Ltd.
+2021-05-25 00:01:16.909172 : Processing 25 of 100 : CIPLA
+Processed 2 records for 24 Cipla Ltd.
+2021-05-25 00:01:20.521803 : Processing 26 of 100 : COALINDIA
+Processed 1 records for 25 Coal India Ltd.
+2021-05-25 00:01:22.245551 : Processing 27 of 100 : COLPAL
+Processed 2 records for 26 Colgate Palmolive (India) Ltd.
+2021-05-25 00:01:23.669819 : Processing 28 of 100 : DLF
+Processed 1 records for 27 DLF Ltd.
+2021-05-25 00:01:25.713819 : Processing 29 of 100 : DABUR
+Processed 2 records for 28 Dabur India Ltd.
+2021-05-25 00:01:28.477775 : Processing 30 of 100 : DIVISLAB
+Processed 1 records for 29 Divi's Laboratories Ltd.
+2021-05-25 00:01:30.750697 : Processing 31 of 100 : DRREDDY
+Processed 2 records for 30 Dr. Reddy's Laboratories Ltd.
+2021-05-25 00:01:34.232794 : Processing 32 of 100 : EICHERMOT
+Processed 2 records for 31 Eicher Motors Ltd.
+2021-05-25 00:01:37.933749 : Processing 33 of 100 : GAIL
+Processed 1 records for 32 GAIL (India) Ltd.
+2021-05-25 00:01:41.356257 : Processing 34 of 100 : GODREJCP
+Processed 1 records for 33 Godrej Consumer Products Ltd.
+2021-05-25 00:01:44.730327 : Processing 35 of 100 : GRASIM
+Processed 2 records for 34 Grasim Industries Ltd.
+2021-05-25 00:01:49.096710 : Processing 36 of 100 : HCLTECH
+Processed 1 records for 35 HCL Technologies Ltd.
+2021-05-25 00:01:52.438691 : Processing 37 of 100 : HDFCAMC
+Processed 1 records for 36 HDFC Asset Management Company Ltd.
+2021-05-25 00:01:53.958526 : Processing 38 of 100 : HDFCBANK
+Processed 2 records for 37 HDFC Bank Ltd.
+2021-05-25 00:01:57.548350 : Processing 39 of 100 : HDFCLIFE
+Processed 1 records for 38 HDFC Life Insurance Company Ltd.
+2021-05-25 00:01:58.602174 : Processing 40 of 100 : HAVELLS
+Processed 1 records for 39 Havells India Ltd.
+2021-05-25 00:02:02.957565 : Processing 41 of 100 : HEROMOTOCO
+Processed 2 records for 40 Hero MotoCorp Ltd.
+2021-05-25 00:02:06.695987 : Processing 42 of 100 : HINDALCO
+Processed 2 records for 41 Hindalco Industries Ltd.
+2021-05-25 00:02:09.957779 : Processing 43 of 100 : HINDPETRO
+Processed 2 records for 42 Hindustan Petroleum Corporation Ltd.
+2021-05-25 00:02:14.511598 : Processing 44 of 100 : HINDUNILVR
+Processed 2 records for 43 Hindustan Unilever Ltd.
+2021-05-25 00:02:18.376328 : Processing 45 of 100 : HDFC
+Processed 2 records for 44 Housing Development Finance Corporation Ltd.
+2021-05-25 00:02:22.358339 : Processing 46 of 100 : ICICIBANK
+Processed 1 records for 45 ICICI Bank Ltd.
+2021-05-25 00:02:25.720763 : Processing 47 of 100 : ICICIGI
+Processed 1 records for 46 ICICI Lombard General Insurance Company Ltd.
+2021-05-25 00:02:27.161279 : Processing 48 of 100 : ICICIPRULI
+Processed 1 records for 47 ICICI Prudential Life Insurance Company Ltd.
+2021-05-25 00:02:28.664567 : Processing 49 of 100 : ITC
+Processed 2 records for 48 ITC Ltd.
+2021-05-25 00:02:32.609661 : Processing 50 of 100 : IOC
+Processed 1 records for 49 Indian Oil Corporation Ltd.
+2021-05-25 00:02:35.981165 : Processing 51 of 100 : IGL
+Processed 1 records for 50 Indraprastha Gas Ltd.
+2021-05-25 00:02:39.138905 : Processing 52 of 100 : INDUSTOWER
+Processed 1 records for 51 Indus Towers Ltd.
+2021-05-25 00:02:41.444024 : Processing 53 of 100 : INDUSINDBK
+Processed 1 records for 52 IndusInd Bank Ltd.
+2021-05-25 00:02:44.939645 : Processing 54 of 100 : NAUKRI
+Processed 1 records for 53 Info Edge (India) Ltd.
+2021-05-25 00:02:47.872827 : Processing 55 of 100 : INFY
+Processed 2 records for 54 Infosys Ltd.
+2021-05-25 00:02:50.657772 : Processing 56 of 100 : INDIGO
+Processed 1 records for 55 InterGlobe Aviation Ltd.
+2021-05-25 00:02:52.699230 : Processing 57 of 100 : JSWSTEEL
+Processed 2 records for 56 JSW Steel Ltd.
+2021-05-25 00:02:56.253783 : Processing 58 of 100 : ACC
+Processed 2 records for 57 ACC Ltd.
+2021-05-25 00:02:59.515522 : Processing 59 of 100 : ONGC
+Processed 2 records for 58 Oil & Natural Gas Corporation Ltd.
+2021-05-25 00:03:03.218657 : Processing 60 of 100 : PETRONET
+Processed 1 records for 59 Petronet LNG Ltd.
+2021-05-25 00:03:05.433095 : Processing 61 of 100 : PIDILITIND
+Processed 2 records for 60 Pidilite Industries Ltd.
+2021-05-25 00:03:09.074185 : Processing 62 of 100 : PEL
+Processed 2 records for 61 Piramal Enterprises Ltd.
+2021-05-25 00:03:11.272308 : Processing 63 of 100 : POWERGRID
+Processed 1 records for 62 Power Grid Corporation of India Ltd.
+2021-05-25 00:03:13.990277 : Processing 64 of 100 : PGHH
+Processed 2 records for 63 Procter & Gamble Hygiene & Health Care Ltd.
+2021-05-25 00:03:17.653465 : Processing 65 of 100 : PNB
+Processed 1 records for 64 Punjab National Bank
+2021-05-25 00:03:20.976085 : Processing 66 of 100 : RELIANCE
+Processed 2 records for 65 Reliance Industries Ltd.
+2021-05-25 00:03:23.874856 : Processing 67 of 100 : SBILIFE
+Processed 1 records for 66 SBI Life Insurance Company Ltd.
+2021-05-25 00:03:25.400204 : Processing 68 of 100 : SHREECEM
+Processed 2 records for 67 Shree Cement Ltd.
+2021-05-25 00:03:29.356292 : Processing 69 of 100 : SIEMENS
+Processed 2 records for 68 Siemens Ltd.
+2021-05-25 00:03:33.264671 : Processing 70 of 100 : SBIN
+Processed 2 records for 69 State Bank of India
+2021-05-25 00:03:37.110459 : Processing 71 of 100 : SUNPHARMA
+Processed 1 records for 70 Sun Pharmaceutical Industries Ltd.
+2021-05-25 00:03:40.308806 : Processing 72 of 100 : TCS
+Processed 1 records for 71 Tata Consultancy Services Ltd.
+2021-05-25 00:03:43.254010 : Processing 73 of 100 : TATACONSUM
+Processed 2 records for 72 Tata Consumer Products Ltd.
+2021-05-25 00:03:46.945169 : Processing 74 of 100 : TATAMOTORS
+Processed 2 records for 73 Tata Motors Ltd.
+2021-05-25 00:03:49.849476 : Processing 75 of 100 : TATASTEEL
+Processed 2 records for 74 Tata Steel Ltd.
+2021-05-25 00:03:52.968999 : Processing 76 of 100 : TECHM
+Processed 1 records for 75 Tech Mahindra Ltd.
+2021-05-25 00:03:55.849570 : Processing 77 of 100 : TITAN
+Processed 2 records for 76 Titan Company Ltd.
+2021-05-25 00:03:59.446777 : Processing 78 of 100 : TORNTPHARM
+Processed 2 records for 77 Torrent Pharmaceuticals Ltd.
+2021-05-25 00:04:03.084883 : Processing 79 of 100 : UPL
+Processed 2 records for 78 UPL Ltd.
+2021-05-25 00:04:06.339979 : Processing 80 of 100 : SBICARD
+Response NOT OK for company: SBI Cards and Payment Services Ltd. with URL: https://www.quandl.com/api/v3/datasets/BSE/BOM543066.json?api_key=RvrJtNVqgmLqprLzHeih, 404
+2021-05-25 00:04:07.041623 : Processing 81 of 100 : ULTRACEMCO
+Processed 1 records for 80 UltraTech Cement Ltd.
+2021-05-25 00:04:10.247847 : Processing 82 of 100 : UBL
+Processed 1 records for 81 United Breweries Ltd.
+2021-05-25 00:04:13.777831 : Processing 83 of 100 : MCDOWELL-N
+Processed 1 records for 82 United Spirits Ltd.
+2021-05-25 00:04:17.038460 : Processing 84 of 100 : VEDL
+Processed 2 records for 83 Vedanta Ltd.
+2021-05-25 00:04:20.679477 : Processing 85 of 100 : WIPRO
+Processed 2 records for 84 Wipro Ltd.
+2021-05-25 00:04:24.878813 : Processing 86 of 100 : JUBLFOOD
+Processed 1 records for 85 Jubilant Foodworks Ltd.
+2021-05-25 00:04:27.586310 : Processing 87 of 100 : KOTAKBANK
+Processed 2 records for 86 Kotak Mahindra Bank Ltd.
+2021-05-25 00:04:31.225321 : Processing 88 of 100 : LTI
+Processed 1 records for 87 Larsen & Toubro Infotech Ltd.
+2021-05-25 00:04:32.726793 : Processing 89 of 100 : LT
+Processed 2 records for 88 Larsen & Toubro Ltd.
+2021-05-25 00:04:36.690935 : Processing 90 of 100 : LUPIN
+Processed 2 records for 89 Lupin Ltd.
+2021-05-25 00:04:38.846850 : Processing 91 of 100 : MRF
+Processed 2 records for 90 MRF Ltd.
+2021-05-25 00:04:42.474299 : Processing 92 of 100 : M&M
+Processed 2 records for 91 Mahindra & Mahindra Ltd.
+2021-05-25 00:04:45.773706 : Processing 93 of 100 : MARICO
+Processed 1 records for 92 Marico Ltd.
+2021-05-25 00:04:48.318804 : Processing 94 of 100 : MARUTI
+Processed 1 records for 93 Maruti Suzuki India Ltd.
+2021-05-25 00:04:51.478019 : Processing 95 of 100 : MOTHERSUMI
+Processed 1 records for 94 Motherson Sumi Systems Ltd.
+2021-05-25 00:04:54.086990 : Processing 96 of 100 : MUTHOOTFIN
+Processed 1 records for 95 Muthoot Finance Ltd.
+2021-05-25 00:04:56.620229 : Processing 97 of 100 : NMDC
+Processed 1 records for 96 NMDC Ltd.
+2021-05-25 00:05:00.315537 : Processing 98 of 100 : NTPC
+Processed 1 records for 97 NTPC Ltd.
+2021-05-25 00:05:02.900458 : Processing 99 of 100 : NESTLEIND
+Processed 2 records for 98 Nestle India Ltd.
+2021-05-25 00:05:07.247912 : Processing 100 of 100 : YESBANK
+Processed 1 records for 99 Yes Bank Ltd.
+Refresh complete!
+CRON completed at: 2021-05-25 00:05:11.373540 !
+CRON trigerred at: 2021-05-26 00:00:01.525712 !
+2021-05-26 00:00:01.912353 : Processing 80 of 100 : SBICARD
+Response NOT OK for company: SBI Cards and Payment Services Ltd. with URL: https://www.quandl.com/api/v3/datasets/BSE/BOM543066.json?api_key=RvrJtNVqgmLqprLzHeih, 404
+Refresh complete!
+CRON completed at: 2021-05-26 00:00:03.684530 !
+CRON trigerred at: 2021-05-27 00:00:01.773785 !
+2021-05-27 00:00:02.462214 : Processing 1 of 100 : ADANIENT
+Processed 2 records for 0 Adani Enterprises Ltd.
+2021-05-27 00:00:06.956185 : Processing 2 of 100 : ADANIGREEN
+Processed 2 records for 1 Adani Green Energy Ltd.
+2021-05-27 00:00:08.807426 : Processing 3 of 100 : ADANIPORTS
+Processed 2 records for 2 Adani Ports and Special Economic Zone Ltd.
+2021-05-27 00:00:11.666434 : Processing 4 of 100 : ADANITRANS
+Processed 2 records for 3 Adani Transmission Ltd.
+2021-05-27 00:00:14.182132 : Processing 5 of 100 : ALKEM
+Processed 2 records for 4 Alkem Laboratories Ltd.
+2021-05-27 00:00:15.820033 : Processing 6 of 100 : AMBUJACEM
+Processed 2 records for 5 Ambuja Cements Ltd.
+2021-05-27 00:00:19.462021 : Processing 7 of 100 : APOLLOHOSP
+Processed 2 records for 6 Apollo Hospitals Enterprise Ltd.
+2021-05-27 00:00:23.330283 : Processing 8 of 100 : ASIANPAINT
+Processed 2 records for 7 Asian Paints Ltd.
+2021-05-27 00:00:27.386996 : Processing 9 of 100 : AUROPHARMA
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-27', 735.0, 751.75, 722.7, 739.15, 737.54, None, 5.393, None, 29.297, 17.25, 29.05, 4.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-24', 751.6, 752.45, 725.95, 734.95, 738.89, None, 3.788, None, 22.964, 20.46, 26.5, -16.65] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-23', 759.9, 760.55, 736.8, 746.2, 744.65, None, 4.897, None, 53.175, 26.06, 23.75, -13.7] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-22', 719.95, 756.75, 718.0, 752.05, 740.08, None, 5.043, None, None, 53.91, 38.75, 32.1] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-21', 772.0, 776.3, 742.8, 748.4, 759.95, None, 4.587, None, 40.157, 23.38, 33.5, -23.6] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-20', 769.0, 776.75, 753.4, 772.25, 771.21, None, 4.789, None, None, 80.02, 23.35, 3.25] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-17', None, None, None, None, None, None, 3.939, None, None, 85.6, 35.55, 0.5] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-16', None, None, None, None, None, 92.017, 3.016, None, 41.316, 44.9, 28.3, 6.55] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-15', None, None, None, None, None, None, 3.219, None, None, 86.64, 21.3, -4.35] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-14', None, None, None, None, None, None, 4.347, None, None, 79.17, 29.25, 6.85] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-13', None, None, None, None, None, None, 4.366, None, 24.063, 22.87, 46.55, 29.65] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-10', None, None, None, None, None, 78.523, 3.501, None, 18.839, 23.99, 34.5, -27.4] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-09', None, None, None, None, None, 49.672, 2.164, None, 9.678, 19.48, 21.95, 8.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-08', None, None, None, None, None, 99.608, 3.904, None, 13.764, 13.82, 45.15, -0.35] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-07', None, None, None, None, None, 83.492, 3.655, None, 15.298, 18.32, 36.9, -6.7] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-06', None, None, None, None, None, 94.522, 3.689, None, 20.423, 21.61, 61.3, 29.4] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-03', None, None, None, None, None, None, 3.479, None, 26.949, 22.63, 37.9, 2.75] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-02', None, None, None, None, None, None, 6.779, None, 59.433, 34.55, 63.0, -59.9] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-01', None, None, None, None, None, 88.015, 3.362, None, 28.144, 31.98, 26.45, 4.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-30', None, None, None, None, None, 91.393, 4.264, None, 14.772, 16.16, 69.35, 39.8] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-29', None, None, None, None, None, None, 4.434, None, 29.538, 24.09, 46.0, 7.0] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-26', None, None, None, None, None, 99.245, 3.603, None, 25.859, 26.06, 20.7, 1.85] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-25', None, None, None, None, None, None, 4.768, None, 18.227, 16.81, 30.15, -15.5] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-24', None, None, None, None, None, None, 8.725, None, 30.377, 13.07, 51.7, 32.1] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-23', None, None, None, None, None, 86.906, 3.571, None, 16.312, 18.77, 28.8, 22.75] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Processed 2 records for 8 Aurobindo Pharma Ltd.
+2021-05-27 00:00:31.044390 : Processing 10 of 100 : DMART
+Processed 2 records for 9 Avenue Supermarts Ltd.
+2021-05-27 00:00:32.439788 : Processing 11 of 100 : AXISBANK
+Processed 2 records for 10 Axis Bank Ltd.
+2021-05-27 00:00:35.896448 : Processing 12 of 100 : BAJAJ-AUTO
+Processed 2 records for 11 Bajaj Auto Ltd.
+2021-05-27 00:00:38.273017 : Processing 13 of 100 : BAJFINANCE
+Processed 2 records for 12 Bajaj Finance Ltd.
+2021-05-27 00:00:41.368655 : Processing 14 of 100 : BAJAJFINSV
+Processed 2 records for 13 Bajaj Finserv Ltd.
+2021-05-27 00:00:43.481574 : Processing 15 of 100 : BAJAJHLDNG
+Processed 2 records for 14 Bajaj Holdings & Investment Ltd.
+2021-05-27 00:00:46.983697 : Processing 16 of 100 : BANDHANBNK
+Processed 2 records for 15 Bandhan Bank Ltd.
+2021-05-27 00:00:48.101288 : Processing 17 of 100 : BERGEPAINT
+Processed 2 records for 16 Berger Paints India Ltd.
+2021-05-27 00:00:51.192786 : Processing 18 of 100 : BPCL
+Processed 2 records for 17 Bharat Petroleum Corporation Ltd.
+2021-05-27 00:00:53.414165 : Processing 19 of 100 : BHARTIARTL
+Processed 2 records for 18 Bharti Airtel Ltd.
+2021-05-27 00:00:56.345057 : Processing 20 of 100 : BIOCON
+Processed 2 records for 19 Biocon Ltd.
+2021-05-27 00:00:59.398153 : Processing 21 of 100 : BOSCHLTD
+Processed 2 records for 20 Bosch Ltd.
+2021-05-27 00:01:02.864148 : Processing 22 of 100 : BRITANNIA
+Processed 2 records for 21 Britannia Industries Ltd.
+2021-05-27 00:01:06.564396 : Processing 23 of 100 : CADILAHC
+Processed 2 records for 22 Cadila Healthcare Ltd.
+2021-05-27 00:01:13.218725 : Processing 24 of 100 : CIPLA
+Processed 2 records for 23 Cipla Ltd.
+2021-05-27 00:01:16.421685 : Processing 25 of 100 : COALINDIA
+Processed 2 records for 24 Coal India Ltd.
+2021-05-27 00:01:18.581461 : Processing 26 of 100 : COLPAL
+Processed 2 records for 25 Colgate Palmolive (India) Ltd.
+2021-05-27 00:01:20.239787 : Processing 27 of 100 : DLF
+Processed 2 records for 26 DLF Ltd.
+2021-05-27 00:01:22.408023 : Processing 28 of 100 : DABUR
+Processed 2 records for 27 Dabur India Ltd.
+2021-05-27 00:01:26.558681 : Processing 29 of 100 : DIVISLAB
+Processed 2 records for 28 Divi's Laboratories Ltd.
+2021-05-27 00:01:29.463778 : Processing 30 of 100 : DRREDDY
+Processed 2 records for 29 Dr. Reddy's Laboratories Ltd.
+2021-05-27 00:01:32.736647 : Processing 31 of 100 : EICHERMOT
+Processed 2 records for 30 Eicher Motors Ltd.
+2021-05-27 00:01:35.664643 : Processing 32 of 100 : GAIL
+Processed 2 records for 31 GAIL (India) Ltd.
+2021-05-27 00:01:38.924036 : Processing 33 of 100 : GODREJCP
+Processed 2 records for 32 Godrej Consumer Products Ltd.
+2021-05-27 00:01:41.723582 : Processing 34 of 100 : GRASIM
+Processed 2 records for 33 Grasim Industries Ltd.
+2021-05-27 00:01:44.955856 : Processing 35 of 100 : HCLTECH
+Processed 2 records for 34 HCL Technologies Ltd.
+2021-05-27 00:01:48.153970 : Processing 36 of 100 : HDFCAMC
+Processed 2 records for 35 HDFC Asset Management Company Ltd.
+2021-05-27 00:01:49.283690 : Processing 37 of 100 : HDFCBANK
+Processed 2 records for 36 HDFC Bank Ltd.
+2021-05-27 00:01:52.828250 : Processing 38 of 100 : HDFCLIFE
+Processed 2 records for 37 HDFC Life Insurance Company Ltd.
+2021-05-27 00:01:53.959614 : Processing 39 of 100 : HAVELLS
+Processed 2 records for 38 Havells India Ltd.
+2021-05-27 00:01:56.675764 : Processing 40 of 100 : HEROMOTOCO
+Processed 2 records for 39 Hero MotoCorp Ltd.
+2021-05-27 00:01:59.706250 : Processing 41 of 100 : HINDALCO
+Processed 2 records for 40 Hindalco Industries Ltd.
+2021-05-27 00:02:07.746142 : Processing 42 of 100 : HINDPETRO
+Processed 2 records for 41 Hindustan Petroleum Corporation Ltd.
+2021-05-27 00:02:14.185502 : Processing 43 of 100 : HINDUNILVR
+Processed 2 records for 42 Hindustan Unilever Ltd.
+2021-05-27 00:02:17.786857 : Processing 44 of 100 : HDFC
+Processed 2 records for 43 Housing Development Finance Corporation Ltd.
+2021-05-27 00:02:21.786155 : Processing 45 of 100 : ICICIBANK
+Processed 2 records for 44 ICICI Bank Ltd.
+2021-05-27 00:02:25.343911 : Processing 46 of 100 : ICICIGI
+Processed 2 records for 45 ICICI Lombard General Insurance Company Ltd.
+2021-05-27 00:02:27.126172 : Processing 47 of 100 : ICICIPRULI
+Processed 2 records for 46 ICICI Prudential Life Insurance Company Ltd.
+2021-05-27 00:02:28.256420 : Processing 48 of 100 : ITC
+Processed 2 records for 47 ITC Ltd.
+2021-05-27 00:02:31.657853 : Processing 49 of 100 : IOC
+Processed 2 records for 48 Indian Oil Corporation Ltd.
+2021-05-27 00:02:34.780318 : Processing 50 of 100 : IGL
+Processed 2 records for 49 Indraprastha Gas Ltd.
+2021-05-27 00:02:38.128900 : Processing 51 of 100 : INDUSTOWER
+Processed 2 records for 50 Indus Towers Ltd.
+2021-05-27 00:02:39.830593 : Processing 52 of 100 : INDUSINDBK
+Processed 2 records for 51 IndusInd Bank Ltd.
+2021-05-27 00:02:42.288122 : Processing 53 of 100 : NAUKRI
+Processed 2 records for 52 Info Edge (India) Ltd.
+2021-05-27 00:02:44.880229 : Processing 54 of 100 : INFY
+Processed 2 records for 53 Infosys Ltd.
+2021-05-27 00:02:48.144608 : Processing 55 of 100 : INDIGO
+Processed 2 records for 54 InterGlobe Aviation Ltd.
+2021-05-27 00:02:49.718835 : Processing 56 of 100 : JSWSTEEL
+Processed 2 records for 55 JSW Steel Ltd.
+2021-05-27 00:02:53.027817 : Processing 57 of 100 : ACC
+Processed 2 records for 56 ACC Ltd.
+2021-05-27 00:02:58.458156 : Processing 58 of 100 : ABBOTINDIA
+Processed 2 records for 57 Abbott India Ltd.
+2021-05-27 00:03:01.599103 : Processing 59 of 100 : TCS
+Processed 2 records for 58 Tata Consultancy Services Ltd.
+2021-05-27 00:03:04.540758 : Processing 60 of 100 : TATACONSUM
+Processed 2 records for 59 Tata Consumer Products Ltd.
+2021-05-27 00:03:11.629936 : Processing 61 of 100 : TATAMOTORS
+Processed 2 records for 60 Tata Motors Ltd.
+2021-05-27 00:03:14.601363 : Processing 62 of 100 : TATASTEEL
+Processed 2 records for 61 Tata Steel Ltd.
+2021-05-27 00:03:18.006436 : Processing 63 of 100 : TECHM
+Processed 2 records for 62 Tech Mahindra Ltd.
+2021-05-27 00:03:20.615399 : Processing 64 of 100 : TITAN
+Processed 2 records for 63 Titan Company Ltd.
+2021-05-27 00:03:24.703960 : Processing 65 of 100 : TORNTPHARM
+Processed 2 records for 64 Torrent Pharmaceuticals Ltd.
+2021-05-27 00:03:28.506880 : Processing 66 of 100 : UPL
+Processed 2 records for 65 UPL Ltd.
+2021-05-27 00:03:31.310846 : Processing 67 of 100 : ULTRACEMCO
+Processed 2 records for 66 UltraTech Cement Ltd.
+2021-05-27 00:03:33.549678 : Processing 68 of 100 : UBL
+Processed 2 records for 67 United Breweries Ltd.
+2021-05-27 00:03:36.318268 : Processing 69 of 100 : MCDOWELL-N
+Processed 2 records for 68 United Spirits Ltd.
+2021-05-27 00:03:38.680337 : Processing 70 of 100 : VEDL
+Processed 2 records for 69 Vedanta Ltd.
+2021-05-27 00:03:43.206275 : Processing 71 of 100 : WIPRO
+Processed 2 records for 70 Wipro Ltd.
+2021-05-27 00:03:46.954186 : Processing 72 of 100 : KOTAKBANK
+Processed 2 records for 71 Kotak Mahindra Bank Ltd.
+2021-05-27 00:03:55.052921 : Processing 73 of 100 : LTI
+Processed 2 records for 72 Larsen & Toubro Infotech Ltd.
+2021-05-27 00:03:56.206800 : Processing 74 of 100 : LT
+Processed 2 records for 73 Larsen & Toubro Ltd.
+2021-05-27 00:04:00.050196 : Processing 75 of 100 : LUPIN
+Processed 2 records for 74 Lupin Ltd.
+2021-05-27 00:04:01.897740 : Processing 76 of 100 : MRF
+Processed 2 records for 75 MRF Ltd.
+2021-05-27 00:04:05.244534 : Processing 77 of 100 : M&M
+Processed 2 records for 76 Mahindra & Mahindra Ltd.
+2021-05-27 00:04:09.084271 : Processing 78 of 100 : MARICO
+Processed 2 records for 77 Marico Ltd.
+2021-05-27 00:04:14.281418 : Processing 79 of 100 : MARUTI
+Processed 2 records for 78 Maruti Suzuki India Ltd.
+2021-05-27 00:04:17.287197 : Processing 80 of 100 : SBICARD
+Response NOT OK for company: SBI Cards and Payment Services Ltd. with URL: https://www.quandl.com/api/v3/datasets/BSE/BOM543066.json?api_key=RvrJtNVqgmLqprLzHeih, 404
+2021-05-27 00:04:18.016298 : Processing 81 of 100 : MOTHERSUMI
+Processed 2 records for 80 Motherson Sumi Systems Ltd.
+2021-05-27 00:04:21.635991 : Processing 82 of 100 : MUTHOOTFIN
+Processed 2 records for 81 Muthoot Finance Ltd.
+2021-05-27 00:04:24.246613 : Processing 83 of 100 : NMDC
+Processed 2 records for 82 NMDC Ltd.
+2021-05-27 00:04:26.380008 : Processing 84 of 100 : NTPC
+Processed 2 records for 83 NTPC Ltd.
+2021-05-27 00:04:28.596387 : Processing 85 of 100 : NESTLEIND
+Processed 2 records for 84 Nestle India Ltd.
+2021-05-27 00:04:33.498760 : Processing 86 of 100 : ONGC
+Processed 2 records for 85 Oil & Natural Gas Corporation Ltd.
+2021-05-27 00:04:37.249023 : Processing 87 of 100 : PETRONET
+Processed 2 records for 86 Petronet LNG Ltd.
+2021-05-27 00:04:40.340189 : Processing 88 of 100 : PIDILITIND
+Processed 2 records for 87 Pidilite Industries Ltd.
+2021-05-27 00:04:43.606963 : Processing 89 of 100 : PEL
+Processed 2 records for 88 Piramal Enterprises Ltd.
+2021-05-27 00:04:45.232132 : Processing 90 of 100 : POWERGRID
+Processed 2 records for 89 Power Grid Corporation of India Ltd.
+2021-05-27 00:04:47.191780 : Processing 91 of 100 : PGHH
+Processed 2 records for 90 Procter & Gamble Hygiene & Health Care Ltd.
+2021-05-27 00:04:50.669174 : Processing 92 of 100 : PNB
+Processed 2 records for 91 Punjab National Bank
+2021-05-27 00:04:53.167556 : Processing 93 of 100 : RELIANCE
+Processed 2 records for 92 Reliance Industries Ltd.
+2021-05-27 00:04:56.286328 : Processing 94 of 100 : SBILIFE
+Processed 2 records for 93 SBI Life Insurance Company Ltd.
+2021-05-27 00:04:57.435299 : Processing 95 of 100 : SHREECEM
+Processed 2 records for 94 Shree Cement Ltd.
+2021-05-27 00:05:00.143389 : Processing 96 of 100 : SIEMENS
+Processed 2 records for 95 Siemens Ltd.
+2021-05-27 00:05:03.833419 : Processing 97 of 100 : SBIN
+Processed 2 records for 96 State Bank of India
+2021-05-27 00:05:07.790076 : Processing 98 of 100 : SUNPHARMA
+Processed 2 records for 97 Sun Pharmaceutical Industries Ltd.
+2021-05-27 00:05:11.035661 : Processing 99 of 100 : JUBLFOOD
+Processed 2 records for 98 Jubilant Foodworks Ltd.
+2021-05-27 00:05:12.786805 : Processing 100 of 100 : YESBANK
+Processed 2 records for 99 Yes Bank Ltd.
+Refresh complete!
+CRON completed at: 2021-05-27 00:05:15.255570 !
+CRON trigerred at: 2021-05-28 00:00:01.418566 !
+2021-05-28 00:00:01.830118 : Processing 80 of 100 : SBICARD
+Response NOT OK for company: SBI Cards and Payment Services Ltd. with URL: https://www.quandl.com/api/v3/datasets/BSE/BOM543066.json?api_key=RvrJtNVqgmLqprLzHeih, 404
+Refresh complete!
+CRON completed at: 2021-05-28 00:00:03.395529 !
+CRON trigerred at: 2021-05-29 00:00:02.035062 !
+2021-05-29 00:00:02.441774 : Processing 1 of 100 : ADANIGREEN
+Processed 2 records for 0 Adani Green Energy Ltd.
+2021-05-29 00:00:04.619739 : Processing 2 of 100 : ADANIPORTS
+Processed 2 records for 1 Adani Ports and Special Economic Zone Ltd.
+2021-05-29 00:00:07.589309 : Processing 3 of 100 : ADANITRANS
+Processed 2 records for 2 Adani Transmission Ltd.
+2021-05-29 00:00:09.960697 : Processing 4 of 100 : ALKEM
+Processed 2 records for 3 Alkem Laboratories Ltd.
+2021-05-29 00:00:12.049304 : Processing 5 of 100 : AMBUJACEM
+Processed 2 records for 4 Ambuja Cements Ltd.
+2021-05-29 00:00:17.659000 : Processing 6 of 100 : APOLLOHOSP
+Processed 2 records for 5 Apollo Hospitals Enterprise Ltd.
+2021-05-29 00:00:21.536631 : Processing 7 of 100 : ASIANPAINT
+Processed 2 records for 6 Asian Paints Ltd.
+2021-05-29 00:00:25.459718 : Processing 8 of 100 : AUROPHARMA
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-27', 735.0, 751.75, 722.7, 739.15, 737.54, None, 5.393, None, 29.297, 17.25, 29.05, 4.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-24', 751.6, 752.45, 725.95, 734.95, 738.89, None, 3.788, None, 22.964, 20.46, 26.5, -16.65] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-23', 759.9, 760.55, 736.8, 746.2, 744.65, None, 4.897, None, 53.175, 26.06, 23.75, -13.7] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-22', 719.95, 756.75, 718.0, 752.05, 740.08, None, 5.043, None, None, 53.91, 38.75, 32.1] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-21', 772.0, 776.3, 742.8, 748.4, 759.95, None, 4.587, None, 40.157, 23.38, 33.5, -23.6] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-20', 769.0, 776.75, 753.4, 772.25, 771.21, None, 4.789, None, None, 80.02, 23.35, 3.25] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-17', None, None, None, None, None, None, 3.939, None, None, 85.6, 35.55, 0.5] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-16', None, None, None, None, None, 92.017, 3.016, None, 41.316, 44.9, 28.3, 6.55] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-15', None, None, None, None, None, None, 3.219, None, None, 86.64, 21.3, -4.35] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-14', None, None, None, None, None, None, 4.347, None, None, 79.17, 29.25, 6.85] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-13', None, None, None, None, None, None, 4.366, None, 24.063, 22.87, 46.55, 29.65] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-10', None, None, None, None, None, 78.523, 3.501, None, 18.839, 23.99, 34.5, -27.4] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-09', None, None, None, None, None, 49.672, 2.164, None, 9.678, 19.48, 21.95, 8.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-08', None, None, None, None, None, 99.608, 3.904, None, 13.764, 13.82, 45.15, -0.35] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-07', None, None, None, None, None, 83.492, 3.655, None, 15.298, 18.32, 36.9, -6.7] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-06', None, None, None, None, None, 94.522, 3.689, None, 20.423, 21.61, 61.3, 29.4] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-03', None, None, None, None, None, None, 3.479, None, 26.949, 22.63, 37.9, 2.75] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-02', None, None, None, None, None, None, 6.779, None, 59.433, 34.55, 63.0, -59.9] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-07-01', None, None, None, None, None, 88.015, 3.362, None, 28.144, 31.98, 26.45, 4.15] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-30', None, None, None, None, None, 91.393, 4.264, None, 14.772, 16.16, 69.35, 39.8] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-29', None, None, None, None, None, None, 4.434, None, 29.538, 24.09, 46.0, 7.0] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-26', None, None, None, None, None, 99.245, 3.603, None, 25.859, 26.06, 20.7, 1.85] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-25', None, None, None, None, None, None, 4.768, None, 18.227, 16.81, 30.15, -15.5] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-24', None, None, None, None, None, None, 8.725, None, 30.377, 13.07, 51.7, 32.1] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Exception encountered : float() argument must be a string or a number, not 'NoneType' 
+ with data: ['2015-06-23', None, None, None, None, None, 86.906, 3.571, None, 16.312, 18.77, 28.8, 22.75] 
+ for URL https://www.quandl.com/api/v3/datasets/BSE/BOM524804.json?api_key=RvrJtNVqgmLqprLzHeih
+Processed 2 records for 7 Aurobindo Pharma Ltd.
+2021-05-29 00:00:28.997732 : Processing 9 of 100 : DMART
+Processed 2 records for 8 Avenue Supermarts Ltd.
+2021-05-29 00:00:30.442482 : Processing 10 of 100 : AXISBANK
+Processed 2 records for 9 Axis Bank Ltd.
+2021-05-29 00:00:34.843569 : Processing 11 of 100 : BAJAJ-AUTO
+Processed 2 records for 10 Bajaj Auto Ltd.
+2021-05-29 00:00:37.001733 : Processing 12 of 100 : BAJFINANCE
+Processed 1 records for 11 Bajaj Finance Ltd.
+2021-05-29 00:00:40.374138 : Processing 13 of 100 : BAJAJFINSV
+Processed 2 records for 12 Bajaj Finserv Ltd.
+2021-05-29 00:00:43.174324 : Processing 14 of 100 : BAJAJHLDNG
+Processed 2 records for 13 Bajaj Holdings & Investment Ltd.
+2021-05-29 00:00:46.027592 : Processing 15 of 100 : BANDHANBNK
+Processed 2 records for 14 Bandhan Bank Ltd.
+2021-05-29 00:00:47.615614 : Processing 16 of 100 : BERGEPAINT
+Processed 1 records for 15 Berger Paints India Ltd.
+2021-05-29 00:00:51.621900 : Processing 17 of 100 : BPCL
+Processed 2 records for 16 Bharat Petroleum Corporation Ltd.
+2021-05-29 00:00:53.715167 : Processing 18 of 100 : BHARTIARTL
+Processed 2 records for 17 Bharti Airtel Ltd.
+2021-05-29 00:00:57.229560 : Processing 19 of 100 : BIOCON
+Processed 2 records for 18 Biocon Ltd.
+2021-05-29 00:00:59.942217 : Processing 20 of 100 : BOSCHLTD
+Processed 1 records for 19 Bosch Ltd.
+2021-05-29 00:01:05.649048 : Processing 21 of 100 : BRITANNIA
+Processed 2 records for 20 Britannia Industries Ltd.
+2021-05-29 00:01:09.530631 : Processing 22 of 100 : CADILAHC
+Processed 2 records for 21 Cadila Healthcare Ltd.
+2021-05-29 00:01:12.927462 : Processing 23 of 100 : CIPLA
+Processed 2 records for 22 Cipla Ltd.
+2021-05-29 00:01:16.509789 : Processing 24 of 100 : COALINDIA
+Processed 2 records for 23 Coal India Ltd.
+2021-05-29 00:01:18.370478 : Processing 25 of 100 : COLPAL
+Processed 1 records for 24 Colgate Palmolive (India) Ltd.
+2021-05-29 00:01:19.882590 : Processing 26 of 100 : DLF
+Processed 2 records for 25 DLF Ltd.
+2021-05-29 00:01:22.465035 : Processing 27 of 100 : DABUR
+Processed 1 records for 26 Dabur India Ltd.
+2021-05-29 00:01:26.487312 : Processing 28 of 100 : DIVISLAB
+Processed 2 records for 27 Divi's Laboratories Ltd.
+2021-05-29 00:01:29.661490 : Processing 29 of 100 : DRREDDY
+Processed 2 records for 28 Dr. Reddy's Laboratories Ltd.
+2021-05-29 00:01:33.174195 : Processing 30 of 100 : EICHERMOT
+Processed 1 records for 29 Eicher Motors Ltd.
+2021-05-29 00:01:36.018338 : Processing 31 of 100 : GAIL
+Processed 2 records for 30 GAIL (India) Ltd.
+2021-05-29 00:01:38.595299 : Processing 32 of 100 : GODREJCP
+Processed 2 records for 31 Godrej Consumer Products Ltd.
+2021-05-29 00:01:42.034106 : Processing 33 of 100 : GRASIM
+Processed 2 records for 32 Grasim Industries Ltd.
+2021-05-29 00:01:48.560601 : Processing 34 of 100 : HCLTECH
+Processed 2 records for 33 HCL Technologies Ltd.
+2021-05-29 00:01:51.975758 : Processing 35 of 100 : HDFCAMC
+Processed 2 records for 34 HDFC Asset Management Company Ltd.
+2021-05-29 00:01:53.526507 : Processing 36 of 100 : HDFCBANK
+Processed 1 records for 35 HDFC Bank Ltd.
+2021-05-29 00:01:56.626235 : Processing 37 of 100 : HDFCLIFE
+Processed 2 records for 36 HDFC Life Insurance Company Ltd.
+2021-05-29 00:01:58.150800 : Processing 38 of 100 : HAVELLS
+Processed 2 records for 37 Havells India Ltd.
+2021-05-29 00:02:01.024927 : Processing 39 of 100 : HEROMOTOCO
+Processed 2 records for 38 Hero MotoCorp Ltd.
+2021-05-29 00:02:04.699360 : Processing 40 of 100 : HINDALCO
+Processed 1 records for 39 Hindalco Industries Ltd.
+2021-05-29 00:02:14.107703 : Processing 41 of 100 : HINDPETRO
+Processed 1 records for 40 Hindustan Petroleum Corporation Ltd.
+2021-05-29 00:02:21.451505 : Processing 42 of 100 : HINDUNILVR
+Processed 2 records for 41 Hindustan Unilever Ltd.
+2021-05-29 00:02:26.950118 : Processing 43 of 100 : HDFC
+Processed 2 records for 42 Housing Development Finance Corporation Ltd.
+2021-05-29 00:02:29.985954 : Processing 44 of 100 : ICICIBANK
+Processed 2 records for 43 ICICI Bank Ltd.
+2021-05-29 00:02:33.603326 : Processing 45 of 100 : ICICIGI
+Processed 2 records for 44 ICICI Lombard General Insurance Company Ltd.
+2021-05-29 00:02:35.106741 : Processing 46 of 100 : ICICIPRULI
+Processed 2 records for 45 ICICI Prudential Life Insurance Company Ltd.
+2021-05-29 00:02:36.229141 : Processing 47 of 100 : ITC
+Processed 2 records for 46 ITC Ltd.
+2021-05-29 00:02:40.174081 : Processing 48 of 100 : IOC
+Processed 2 records for 47 Indian Oil Corporation Ltd.
+2021-05-29 00:02:43.534074 : Processing 49 of 100 : IGL
+Processed 2 records for 48 Indraprastha Gas Ltd.
+2021-05-29 00:02:46.659786 : Processing 50 of 100 : INDUSTOWER
+Processed 2 records for 49 Indus Towers Ltd.
+2021-05-29 00:02:49.197082 : Processing 51 of 100 : INDUSINDBK
+Processed 2 records for 50 IndusInd Bank Ltd.
+2021-05-29 00:02:52.147406 : Processing 52 of 100 : NAUKRI
+Processed 2 records for 51 Info Edge (India) Ltd.
+2021-05-29 00:02:58.338885 : Processing 53 of 100 : INFY
+Processed 2 records for 52 Infosys Ltd.
+2021-05-29 00:03:01.846157 : Processing 54 of 100 : INDIGO
+Processed 2 records for 53 InterGlobe Aviation Ltd.
+2021-05-29 00:03:03.943050 : Processing 55 of 100 : JSWSTEEL
+Processed 2 records for 54 JSW Steel Ltd.
+2021-05-29 00:03:06.778283 : Processing 56 of 100 : ACC
+Processed 2 records for 55 ACC Ltd.
+2021-05-29 00:03:10.609600 : Processing 57 of 100 : ABBOTINDIA
+Processed 2 records for 56 Abbott India Ltd.
+2021-05-29 00:03:14.133593 : Processing 58 of 100 : ADANIENT
+Processed 1 records for 57 Adani Enterprises Ltd.
+2021-05-29 00:03:17.904545 : Processing 59 of 100 : LTI
+Processed 2 records for 58 Larsen & Toubro Infotech Ltd.
+2021-05-29 00:03:19.562464 : Processing 60 of 100 : LT
+Processed 1 records for 59 Larsen & Toubro Ltd.
+2021-05-29 00:03:23.352193 : Processing 61 of 100 : LUPIN
+Processed 2 records for 60 Lupin Ltd.
+2021-05-29 00:03:24.857509 : Processing 62 of 100 : MRF
+Processed 2 records for 61 MRF Ltd.
+2021-05-29 00:03:27.770318 : Processing 63 of 100 : M&M
+Processed 2 records for 62 Mahindra & Mahindra Ltd.
+2021-05-29 00:03:30.567567 : Processing 64 of 100 : MARICO
+Processed 2 records for 63 Marico Ltd.
+2021-05-29 00:03:34.383215 : Processing 65 of 100 : MARUTI
+Processed 2 records for 64 Maruti Suzuki India Ltd.
+2021-05-29 00:03:37.547595 : Processing 66 of 100 : MOTHERSUMI
+Processed 2 records for 65 Motherson Sumi Systems Ltd.
+2021-05-29 00:03:41.039403 : Processing 67 of 100 : MUTHOOTFIN
+Processed 2 records for 66 Muthoot Finance Ltd.
+2021-05-29 00:03:43.580691 : Processing 68 of 100 : NMDC
+Processed 2 records for 67 NMDC Ltd.
+2021-05-29 00:03:45.659001 : Processing 69 of 100 : NTPC
+Processed 2 records for 68 NTPC Ltd.
+2021-05-29 00:03:48.738012 : Processing 70 of 100 : NESTLEIND
+Processed 2 records for 69 Nestle India Ltd.
+2021-05-29 00:03:55.511379 : Processing 71 of 100 : ONGC
+Processed 2 records for 70 Oil & Natural Gas Corporation Ltd.
+2021-05-29 00:04:03.657610 : Processing 72 of 100 : PETRONET
+Processed 2 records for 71 Petronet LNG Ltd.
+2021-05-29 00:04:08.698211 : Processing 73 of 100 : PIDILITIND
+Processed 1 records for 72 Pidilite Industries Ltd.
+2021-05-29 00:04:12.092601 : Processing 74 of 100 : PEL
+Processed 2 records for 73 Piramal Enterprises Ltd.
+2021-05-29 00:04:14.236470 : Processing 75 of 100 : POWERGRID
+Processed 2 records for 74 Power Grid Corporation of India Ltd.
+2021-05-29 00:04:16.214906 : Processing 76 of 100 : PGHH
+Processed 2 records for 75 Procter & Gamble Hygiene & Health Care Ltd.
+2021-05-29 00:04:19.668150 : Processing 77 of 100 : PNB
+Processed 2 records for 76 Punjab National Bank
+2021-05-29 00:04:22.991878 : Processing 78 of 100 : RELIANCE
+Processed 1 records for 77 Reliance Industries Ltd.
+2021-05-29 00:04:30.881554 : Processing 79 of 100 : SBILIFE
+Processed 2 records for 78 SBI Life Insurance Company Ltd.
+2021-05-29 00:04:32.389647 : Processing 80 of 100 : SBICARD
+Response NOT OK for company: SBI Cards and Payment Services Ltd. with URL: https://www.quandl.com/api/v3/datasets/BSE/BOM543066.json?api_key=RvrJtNVqgmLqprLzHeih, 404
+2021-05-29 00:04:33.524638 : Processing 81 of 100 : SHREECEM
+Processed 2 records for 80 Shree Cement Ltd.
+2021-05-29 00:04:37.095953 : Processing 82 of 100 : SIEMENS
+Processed 2 records for 81 Siemens Ltd.
+2021-05-29 00:04:40.300471 : Processing 83 of 100 : SBIN
+Processed 2 records for 82 State Bank of India
+2021-05-29 00:04:43.954059 : Processing 84 of 100 : SUNPHARMA
+Processed 2 records for 83 Sun Pharmaceutical Industries Ltd.
+2021-05-29 00:04:47.003825 : Processing 85 of 100 : JUBLFOOD
+Processed 2 records for 84 Jubilant Foodworks Ltd.
+2021-05-29 00:04:49.870829 : Processing 86 of 100 : YESBANK
+Processed 2 records for 85 Yes Bank Ltd.
+2021-05-29 00:04:52.888487 : Processing 87 of 100 : TCS
+Processed 2 records for 86 Tata Consultancy Services Ltd.
+2021-05-29 00:04:55.084486 : Processing 88 of 100 : TATACONSUM
+Processed 2 records for 87 Tata Consumer Products Ltd.
+2021-05-29 00:04:58.121511 : Processing 89 of 100 : TATAMOTORS
+Processed 2 records for 88 Tata Motors Ltd.
+2021-05-29 00:05:04.150064 : Processing 90 of 100 : TATASTEEL
+Processed 2 records for 89 Tata Steel Ltd.
+2021-05-29 00:05:08.355655 : Processing 91 of 100 : TECHM
+Processed 2 records for 90 Tech Mahindra Ltd.
+2021-05-29 00:05:11.262111 : Processing 92 of 100 : TITAN
+Processed 2 records for 91 Titan Company Ltd.
+2021-05-29 00:05:15.457946 : Processing 93 of 100 : TORNTPHARM
+Processed 2 records for 92 Torrent Pharmaceuticals Ltd.
+2021-05-29 00:05:19.091824 : Processing 94 of 100 : UPL
+Processed 2 records for 93 UPL Ltd.
+2021-05-29 00:05:21.705098 : Processing 95 of 100 : ULTRACEMCO
+Processed 2 records for 94 UltraTech Cement Ltd.
+2021-05-29 00:05:23.867326 : Processing 96 of 100 : UBL
+Processed 2 records for 95 United Breweries Ltd.
+2021-05-29 00:05:26.368358 : Processing 97 of 100 : MCDOWELL-N
+Processed 2 records for 96 United Spirits Ltd.
+2021-05-29 00:05:29.872809 : Processing 98 of 100 : VEDL
+Processed 1 records for 97 Vedanta Ltd.
+2021-05-29 00:05:32.571913 : Processing 99 of 100 : WIPRO
+Processed 2 records for 98 Wipro Ltd.
+2021-05-29 00:05:35.427076 : Processing 100 of 100 : KOTAKBANK
+Processed 1 records for 99 Kotak Mahindra Bank Ltd.
+Refresh complete!
+CRON completed at: 2021-05-29 00:05:38.980916 !
